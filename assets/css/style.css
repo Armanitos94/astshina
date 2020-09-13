@@ -582,10 +582,6 @@ section {
   z-index: 10;
 }
 
-.about .content {
-  padding: 30px 30px 30px 0;
-}
-
 .about .content h3 {
   font-weight: 700;
   font-size: 34px;
